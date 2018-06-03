@@ -2,5 +2,7 @@
 name = "stone-rust-gen"
 version = "0.1.0"
 authors = ["Joseph Murphy <air.jmurph@gmail.com>"]
+license = "MIT"
+description = "Code generation for the Dropbox Stone API spec format."
 
 [dependencies]
